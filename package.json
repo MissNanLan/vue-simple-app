@@ -1,0 +1,17 @@
+{
+  "name": "umi-simple-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "release": "umi-scripts release"
+  },
+  "dependencies": {
+    "umi": "^4.0.79"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tsx": "^3.12.8"
+  }
+}
