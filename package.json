@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "release": "umi-scripts release"
+    "release": "umi-scripts release",
+    "temp": "my-cli"
   },
   "dependencies": {
     "umi": "^4.0.79"

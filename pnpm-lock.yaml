@@ -32,6 +32,8 @@ importers:
         specifier: ^5.0.3
         version: registry.npmjs.org/typescript@5.2.2
 
+  packages/my-cli: {}
+
   scripts: {}
 
 packages:
